@@ -1,0 +1,29 @@
+[
+    {
+      "image": "https://i.ibb.co/fp3kTpF/01.png",
+      "name": "Automotive Gear",
+      "location": "Automotive Gear",
+      "phone": " +2 123 654 7898"
+    },
+    {
+      "image": "https://i.ibb.co/kyhNLZB/02.png",
+      "name": "Keithson Car",
+      "location": "Los Angeles, USA",
+      "phone": "+1-555-555-5555"
+    },
+    {
+      "image": "https://i.ibb.co/vcYBk1m/03.png",
+      "name": "AeroBlitz ZR",
+      "location": "Superious Automotive",
+      "phone": "+44-20-1234-5678"
+    },
+    {
+      "image": "https://i.ibb.co/VwsZhpB/04.png",
+      "name": "Racing Gear Car",
+      "location": "Berlin, Germany",
+      "phone": "+49-30-1234-5678"
+    }
+  ]
+  
+
+

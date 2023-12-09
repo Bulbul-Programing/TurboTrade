@@ -1,0 +1,32 @@
+[
+    {   
+        "id":1,
+        "carName": "BMW",
+        "image": "https://i.ibb.co/ScD5whh/artiom-vallat-f-N5c-Vlpa-Jf-A-unsplash.jpg"
+    },
+    {
+        "id":2,
+        "carName": "Audi",
+        "image": "https://i.ibb.co/yWLH7kk/velito-xd-I8d-Bx1-SA8-unsplash.jpg"
+    },
+    {
+        "id":3,
+        "carName": "Tesla",
+        "image": "https://i.ibb.co/NT9BfVB/david-von-diemar-ZBWn5-Dv-O0hg-unsplash.jpg"
+    },
+    {
+        "id":4,
+        "carName": "Volvo",
+        "image": "https://i.ibb.co/h26mc8t/adam-cai-BVR-M-A8xrw-unsplash.jpg"
+    },
+    {
+        "id":5,
+        "carName": "Ferrari",
+        "image": "https://i.ibb.co/4R6wSkq/brandon-atchison-Dz-W3-MT-i-IY-unsplash.jpg"
+    },
+    {
+        "id":6,
+        "carName": "Lamborghini",
+        "image": "https://i.ibb.co/1qrH3b1/felipe-simo-HBop-t9-V9k-M-unsplash.jpg"
+    }
+]
